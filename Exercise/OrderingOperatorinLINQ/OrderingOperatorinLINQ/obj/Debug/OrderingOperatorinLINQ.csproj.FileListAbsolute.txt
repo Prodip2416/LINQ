@@ -1,0 +1,6 @@
+F:\Programming With DOT NET\LINQ\OrderingOperatorinLINQ\OrderingOperatorinLINQ\bin\Debug\OrderingOperatorinLINQ.exe.config
+F:\Programming With DOT NET\LINQ\OrderingOperatorinLINQ\OrderingOperatorinLINQ\bin\Debug\OrderingOperatorinLINQ.exe
+F:\Programming With DOT NET\LINQ\OrderingOperatorinLINQ\OrderingOperatorinLINQ\bin\Debug\OrderingOperatorinLINQ.pdb
+F:\Programming With DOT NET\LINQ\OrderingOperatorinLINQ\OrderingOperatorinLINQ\obj\Debug\OrderingOperatorinLINQ.csprojResolveAssemblyReference.cache
+F:\Programming With DOT NET\LINQ\OrderingOperatorinLINQ\OrderingOperatorinLINQ\obj\Debug\OrderingOperatorinLINQ.exe
+F:\Programming With DOT NET\LINQ\OrderingOperatorinLINQ\OrderingOperatorinLINQ\obj\Debug\OrderingOperatorinLINQ.pdb

@@ -1,0 +1,6 @@
+F:\Programming With DOT NET\LINQ\LINQAggregateFunctions\LINQAggregateFunctions\bin\Debug\LINQAggregateFunctions.exe.config
+F:\Programming With DOT NET\LINQ\LINQAggregateFunctions\LINQAggregateFunctions\bin\Debug\LINQAggregateFunctions.exe
+F:\Programming With DOT NET\LINQ\LINQAggregateFunctions\LINQAggregateFunctions\bin\Debug\LINQAggregateFunctions.pdb
+F:\Programming With DOT NET\LINQ\LINQAggregateFunctions\LINQAggregateFunctions\obj\Debug\LINQAggregateFunctions.csprojResolveAssemblyReference.cache
+F:\Programming With DOT NET\LINQ\LINQAggregateFunctions\LINQAggregateFunctions\obj\Debug\LINQAggregateFunctions.exe
+F:\Programming With DOT NET\LINQ\LINQAggregateFunctions\LINQAggregateFunctions\obj\Debug\LINQAggregateFunctions.pdb

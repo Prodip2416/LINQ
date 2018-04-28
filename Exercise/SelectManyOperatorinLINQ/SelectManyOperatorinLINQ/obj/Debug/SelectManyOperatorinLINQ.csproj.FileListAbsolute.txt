@@ -1,0 +1,6 @@
+F:\Programming With DOT NET\LINQ\SelectManyOperatorinLINQ\SelectManyOperatorinLINQ\bin\Debug\SelectManyOperatorinLINQ.exe.config
+F:\Programming With DOT NET\LINQ\SelectManyOperatorinLINQ\SelectManyOperatorinLINQ\bin\Debug\SelectManyOperatorinLINQ.exe
+F:\Programming With DOT NET\LINQ\SelectManyOperatorinLINQ\SelectManyOperatorinLINQ\bin\Debug\SelectManyOperatorinLINQ.pdb
+F:\Programming With DOT NET\LINQ\SelectManyOperatorinLINQ\SelectManyOperatorinLINQ\obj\Debug\SelectManyOperatorinLINQ.csprojResolveAssemblyReference.cache
+F:\Programming With DOT NET\LINQ\SelectManyOperatorinLINQ\SelectManyOperatorinLINQ\obj\Debug\SelectManyOperatorinLINQ.exe
+F:\Programming With DOT NET\LINQ\SelectManyOperatorinLINQ\SelectManyOperatorinLINQ\obj\Debug\SelectManyOperatorinLINQ.pdb
