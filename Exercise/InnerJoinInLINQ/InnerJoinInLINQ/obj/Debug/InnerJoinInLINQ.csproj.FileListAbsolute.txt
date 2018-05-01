@@ -1,0 +1,6 @@
+F:\Programming With DOT NET\LINQ\InnerJoinInLINQ\InnerJoinInLINQ\bin\Debug\InnerJoinInLINQ.exe.config
+F:\Programming With DOT NET\LINQ\InnerJoinInLINQ\InnerJoinInLINQ\bin\Debug\InnerJoinInLINQ.exe
+F:\Programming With DOT NET\LINQ\InnerJoinInLINQ\InnerJoinInLINQ\bin\Debug\InnerJoinInLINQ.pdb
+F:\Programming With DOT NET\LINQ\InnerJoinInLINQ\InnerJoinInLINQ\obj\Debug\InnerJoinInLINQ.csprojResolveAssemblyReference.cache
+F:\Programming With DOT NET\LINQ\InnerJoinInLINQ\InnerJoinInLINQ\obj\Debug\InnerJoinInLINQ.exe
+F:\Programming With DOT NET\LINQ\InnerJoinInLINQ\InnerJoinInLINQ\obj\Debug\InnerJoinInLINQ.pdb

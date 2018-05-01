@@ -1,0 +1,5 @@
+F:\Programming With DOT NET\LINQ\GenerationOperatorsInLINQ\GenerationOperatorsInLINQ\bin\Debug\GenerationOperatorsInLINQ.exe.config
+F:\Programming With DOT NET\LINQ\GenerationOperatorsInLINQ\GenerationOperatorsInLINQ\bin\Debug\GenerationOperatorsInLINQ.exe
+F:\Programming With DOT NET\LINQ\GenerationOperatorsInLINQ\GenerationOperatorsInLINQ\bin\Debug\GenerationOperatorsInLINQ.pdb
+F:\Programming With DOT NET\LINQ\GenerationOperatorsInLINQ\GenerationOperatorsInLINQ\obj\Debug\GenerationOperatorsInLINQ.exe
+F:\Programming With DOT NET\LINQ\GenerationOperatorsInLINQ\GenerationOperatorsInLINQ\obj\Debug\GenerationOperatorsInLINQ.pdb

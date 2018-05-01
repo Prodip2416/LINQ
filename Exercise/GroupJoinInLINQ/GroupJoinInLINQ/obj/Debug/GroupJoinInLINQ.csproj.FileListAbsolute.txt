@@ -1,0 +1,5 @@
+F:\Programming With DOT NET\LINQ\GroupJoinInLINQ\GroupJoinInLINQ\bin\Debug\GroupJoinInLINQ.exe.config
+F:\Programming With DOT NET\LINQ\GroupJoinInLINQ\GroupJoinInLINQ\bin\Debug\GroupJoinInLINQ.exe
+F:\Programming With DOT NET\LINQ\GroupJoinInLINQ\GroupJoinInLINQ\bin\Debug\GroupJoinInLINQ.pdb
+F:\Programming With DOT NET\LINQ\GroupJoinInLINQ\GroupJoinInLINQ\obj\Debug\GroupJoinInLINQ.exe
+F:\Programming With DOT NET\LINQ\GroupJoinInLINQ\GroupJoinInLINQ\obj\Debug\GroupJoinInLINQ.pdb
