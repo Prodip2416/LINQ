@@ -1,0 +1,5 @@
+F:\Programming With DOT NET\LINQ\QuantifiersInLINQ\QuantifiersInLINQ\bin\Debug\QuantifiersInLINQ.exe.config
+F:\Programming With DOT NET\LINQ\QuantifiersInLINQ\QuantifiersInLINQ\bin\Debug\QuantifiersInLINQ.exe
+F:\Programming With DOT NET\LINQ\QuantifiersInLINQ\QuantifiersInLINQ\bin\Debug\QuantifiersInLINQ.pdb
+F:\Programming With DOT NET\LINQ\QuantifiersInLINQ\QuantifiersInLINQ\obj\Debug\QuantifiersInLINQ.exe
+F:\Programming With DOT NET\LINQ\QuantifiersInLINQ\QuantifiersInLINQ\obj\Debug\QuantifiersInLINQ.pdb

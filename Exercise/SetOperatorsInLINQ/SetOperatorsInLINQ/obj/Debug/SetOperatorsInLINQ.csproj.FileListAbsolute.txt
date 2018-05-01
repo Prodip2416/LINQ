@@ -1,0 +1,6 @@
+F:\Programming With DOT NET\LINQ\SetOperatorsInLINQ\SetOperatorsInLINQ\bin\Debug\SetOperatorsInLINQ.exe.config
+F:\Programming With DOT NET\LINQ\SetOperatorsInLINQ\SetOperatorsInLINQ\bin\Debug\SetOperatorsInLINQ.exe
+F:\Programming With DOT NET\LINQ\SetOperatorsInLINQ\SetOperatorsInLINQ\bin\Debug\SetOperatorsInLINQ.pdb
+F:\Programming With DOT NET\LINQ\SetOperatorsInLINQ\SetOperatorsInLINQ\obj\Debug\SetOperatorsInLINQ.csprojResolveAssemblyReference.cache
+F:\Programming With DOT NET\LINQ\SetOperatorsInLINQ\SetOperatorsInLINQ\obj\Debug\SetOperatorsInLINQ.exe
+F:\Programming With DOT NET\LINQ\SetOperatorsInLINQ\SetOperatorsInLINQ\obj\Debug\SetOperatorsInLINQ.pdb
