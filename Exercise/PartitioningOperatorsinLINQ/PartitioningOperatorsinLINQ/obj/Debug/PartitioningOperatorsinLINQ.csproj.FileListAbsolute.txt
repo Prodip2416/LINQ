@@ -1,0 +1,5 @@
+F:\Programming With DOT NET\LINQ\PartitioningOperatorsinLINQ\PartitioningOperatorsinLINQ\bin\Debug\PartitioningOperatorsinLINQ.exe.config
+F:\Programming With DOT NET\LINQ\PartitioningOperatorsinLINQ\PartitioningOperatorsinLINQ\bin\Debug\PartitioningOperatorsinLINQ.exe
+F:\Programming With DOT NET\LINQ\PartitioningOperatorsinLINQ\PartitioningOperatorsinLINQ\bin\Debug\PartitioningOperatorsinLINQ.pdb
+F:\Programming With DOT NET\LINQ\PartitioningOperatorsinLINQ\PartitioningOperatorsinLINQ\obj\Debug\PartitioningOperatorsinLINQ.exe
+F:\Programming With DOT NET\LINQ\PartitioningOperatorsinLINQ\PartitioningOperatorsinLINQ\obj\Debug\PartitioningOperatorsinLINQ.pdb

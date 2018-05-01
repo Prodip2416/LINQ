@@ -1,0 +1,6 @@
+F:\Programming With DOT NET\LINQ\LINQqueryDeferredExecution\LINQqueryDeferredExecution\bin\Debug\LINQqueryDeferredExecution.exe.config
+F:\Programming With DOT NET\LINQ\LINQqueryDeferredExecution\LINQqueryDeferredExecution\obj\Debug\LINQqueryDeferredExecution.csprojResolveAssemblyReference.cache
+F:\Programming With DOT NET\LINQ\LINQqueryDeferredExecution\LINQqueryDeferredExecution\bin\Debug\LINQqueryDeferredExecution.exe
+F:\Programming With DOT NET\LINQ\LINQqueryDeferredExecution\LINQqueryDeferredExecution\bin\Debug\LINQqueryDeferredExecution.pdb
+F:\Programming With DOT NET\LINQ\LINQqueryDeferredExecution\LINQqueryDeferredExecution\obj\Debug\LINQqueryDeferredExecution.exe
+F:\Programming With DOT NET\LINQ\LINQqueryDeferredExecution\LINQqueryDeferredExecution\obj\Debug\LINQqueryDeferredExecution.pdb
