@@ -1,0 +1,6 @@
+F:\Programming With DOT NET\LINQ\CastAndOfTypeOperatorsLINQ\CastAndOfTypeOperatorsLINQ\bin\Debug\CastAndOfTypeOperatorsLINQ.exe.config
+F:\Programming With DOT NET\LINQ\CastAndOfTypeOperatorsLINQ\CastAndOfTypeOperatorsLINQ\bin\Debug\CastAndOfTypeOperatorsLINQ.exe
+F:\Programming With DOT NET\LINQ\CastAndOfTypeOperatorsLINQ\CastAndOfTypeOperatorsLINQ\bin\Debug\CastAndOfTypeOperatorsLINQ.pdb
+F:\Programming With DOT NET\LINQ\CastAndOfTypeOperatorsLINQ\CastAndOfTypeOperatorsLINQ\obj\Debug\CastAndOfTypeOperatorsLINQ.csprojResolveAssemblyReference.cache
+F:\Programming With DOT NET\LINQ\CastAndOfTypeOperatorsLINQ\CastAndOfTypeOperatorsLINQ\obj\Debug\CastAndOfTypeOperatorsLINQ.exe
+F:\Programming With DOT NET\LINQ\CastAndOfTypeOperatorsLINQ\CastAndOfTypeOperatorsLINQ\obj\Debug\CastAndOfTypeOperatorsLINQ.pdb

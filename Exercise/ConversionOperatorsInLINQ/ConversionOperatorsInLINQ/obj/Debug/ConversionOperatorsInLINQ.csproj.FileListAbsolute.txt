@@ -1,0 +1,5 @@
+F:\Programming With DOT NET\LINQ\ConversionOperatorsInLINQ\ConversionOperatorsInLINQ\bin\Debug\ConversionOperatorsInLINQ.exe.config
+F:\Programming With DOT NET\LINQ\ConversionOperatorsInLINQ\ConversionOperatorsInLINQ\bin\Debug\ConversionOperatorsInLINQ.exe
+F:\Programming With DOT NET\LINQ\ConversionOperatorsInLINQ\ConversionOperatorsInLINQ\bin\Debug\ConversionOperatorsInLINQ.pdb
+F:\Programming With DOT NET\LINQ\ConversionOperatorsInLINQ\ConversionOperatorsInLINQ\obj\Debug\ConversionOperatorsInLINQ.exe
+F:\Programming With DOT NET\LINQ\ConversionOperatorsInLINQ\ConversionOperatorsInLINQ\obj\Debug\ConversionOperatorsInLINQ.pdb

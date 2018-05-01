@@ -1,0 +1,6 @@
+F:\Programming With DOT NET\LINQ\AsEnumerableAndAsQueryableinLINQ\AsEnumerableAndAsQueryableinLINQ\bin\Debug\AsEnumerableAndAsQueryableinLINQ.exe.config
+F:\Programming With DOT NET\LINQ\AsEnumerableAndAsQueryableinLINQ\AsEnumerableAndAsQueryableinLINQ\bin\Debug\AsEnumerableAndAsQueryableinLINQ.exe
+F:\Programming With DOT NET\LINQ\AsEnumerableAndAsQueryableinLINQ\AsEnumerableAndAsQueryableinLINQ\bin\Debug\AsEnumerableAndAsQueryableinLINQ.pdb
+F:\Programming With DOT NET\LINQ\AsEnumerableAndAsQueryableinLINQ\AsEnumerableAndAsQueryableinLINQ\obj\Debug\AsEnumerableAndAsQueryableinLINQ.csprojResolveAssemblyReference.cache
+F:\Programming With DOT NET\LINQ\AsEnumerableAndAsQueryableinLINQ\AsEnumerableAndAsQueryableinLINQ\obj\Debug\AsEnumerableAndAsQueryableinLINQ.exe
+F:\Programming With DOT NET\LINQ\AsEnumerableAndAsQueryableinLINQ\AsEnumerableAndAsQueryableinLINQ\obj\Debug\AsEnumerableAndAsQueryableinLINQ.pdb
